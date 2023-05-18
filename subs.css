@@ -1,0 +1,20 @@
+body{
+    background-image: url("images/plane 2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}input[type=text] ,input[ type=Email]{
+    width: 100%;
+    border: 2px;
+    border-radius: 5px;
+    padding: 2px 15px;
+
+ }
+ form{
+     width: 30%;
+     color: whitesmoke;
+     padding-left:500px ;
+     padding-right: 200px;
+     padding-bottom: 200px;
+     padding-top: 400px;
+     height: 90px;
+ }
